@@ -1,0 +1,15 @@
+{
+	"compile": {
+		"include": [
+			"./assets/player1.png",
+			"./assets/player2.png",
+			"./assets/player3.png",
+			"./assets/player4.png",
+			"./assets/stone.png"
+		]
+	},
+	"imports": {
+		"@opensrc/deno-open": "jsr:@opensrc/deno-open@^1.0.0",
+		"skia-canvas": "npm:skia-canvas@^4.0.0"
+	}
+}
